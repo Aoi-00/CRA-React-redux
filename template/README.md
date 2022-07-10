@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+[![npm version](https://img.shields.io/npm/v/cra-template-redux-router.svg?style=flat-square)](https://www.npmjs.com/package/cra-template-redux-router)
+<!-- [![npm downloads](https://img.shields.io/npm/dm/cra-template-redux-router.svg?style=flat-square)](https://www.npmjs.com/package/cra-template-redux-router) -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and comes with Redux & redux-thunk, and react-router. It also incorporates bootstrap, bootstrap icon and MDBbootstrap.
 
