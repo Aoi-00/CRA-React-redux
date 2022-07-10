@@ -1,29 +1,30 @@
 {
-    "name": "cra-template-redux-router",
-    "version": "0.0.0",
-    "keywords": [
-      "react",
-      "create-react-app",
-      "redux",
-      "react-router",
-      "mdbootstrap",
-      "redux-thunk",
-      "template"
-    ],
-    "description": "A base template for Create React App, with redux (redux-thunk middleware) and react-router. Comes with MDBbootstrap, bootstrap and bootstrap icons.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Aoi-00/CRA-React-redux.git",
-    },
-    "license": "MIT",
-    "engines": {
-      "node": ">=14"
-    },
-    "bugs": {
-      "url": "https://github.com/Aoi-00/CRA-React-redux/issues"
-    },
-    "files": [
-      "template",
-      "template.json"
-    ]
-  }
+  "name": "cra-template-redux-router",
+  "version": "0.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "redux",
+    "react-router",
+    "mdbootstrap",
+    "redux-thunk",
+    "template"
+  ],
+  "description": "A base template for Create React App, with redux (redux-thunk middleware) and react-router. Comes with MDBbootstrap, bootstrap and bootstrap icons.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aoi-00/CRA-React-redux.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/Aoi-00/CRA-React-redux/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
